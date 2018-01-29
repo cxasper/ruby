@@ -12,3 +12,4 @@ n = n.to_i
     else
         puts "Weird"
     end
+#asdasdasd
